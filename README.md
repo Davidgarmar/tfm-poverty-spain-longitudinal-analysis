@@ -38,6 +38,16 @@ Source:
 - Master's thesis PDF.
 - Documentation.
 
-## Author
+## Author 
 
-David García Martínez
+David García Martínez.
+
+## Copyright and publication rights
+
+This work was awarded by UNED.
+
+The author retains authorship of the work. However, publication and exploitation rights may be subject to agreements associated with the award.
+
+The document is provided in this repository for informational and portfolio purposes only.
+
+Any reuse, redistribution or republication should be authorised by the rights holders where applicable.
